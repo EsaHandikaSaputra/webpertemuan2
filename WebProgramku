@@ -1,0 +1,13 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class WebProgramku extends CI_Controller {
+
+    public function index(){
+        echo "<h1>Let Me introduce Myself</h1>";
+        echo "My name is esa handika saputra, you can call me john";
+    }
+
+}
+
+/* End of file Controllername.php */
